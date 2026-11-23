@@ -1,4 +1,4 @@
-# Sensor Monitor Toolkit
+# PressureSignalLab
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
@@ -135,19 +135,17 @@ An optional smoke check constructs the main windows and verifies Excel input/out
 - The original documentation in `docs/archive/` describes earlier versions and can contain outdated commands or feature claims. Use the root READMEs for current instructions.
 - Linux/macOS may require separate Tk installation, font changes, and serial port configuration; they have not been verified here.
 
-## Preparing a GitHub repository
+## GitHub repository and updates
 
-Suggested repository name: **`sensor-monitor-toolkit`**. The parent folder can keep its current name; internal paths do not depend on it.
+Repository: [Z13156D2/PressureSignalLab](https://github.com/Z13156D2/PressureSignalLab). The parent folder can keep its current name; internal paths do not depend on it.
 
-Create an empty repository on GitHub, then run from this directory (replace the remote URL):
+For subsequent updates, run these commands from the existing checkout:
 
 ```powershell
-git init -b main
 git add .
 git status
-git commit -m "Organize sensor monitoring toolkit"
-git remote add origin https://github.com/YOUR_USERNAME/sensor-monitor-toolkit.git
-git push -u origin main
+git commit -m "Update PressureSignalLab"
+git push
 ```
 
-No license has been selected. Add a `LICENSE` file reflecting your intended permissions before presenting this project as licensed open-source software.
+This project is available under the [MIT License](LICENSE).

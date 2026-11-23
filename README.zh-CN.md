@@ -1,4 +1,4 @@
-# Sensor Monitor Toolkit · 传感器监测工具集
+# PressureSignalLab · 压力传感器信号工具集
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
@@ -135,19 +135,17 @@ python -m unittest discover -s tests -v
 - `docs/archive/` 是旧版资料，其中的命令和功能说明可能过时；当前用法以根目录中英文 README 为准。
 - Linux/macOS 可能需要额外安装 Tk、调整字体及串口路径，目前未在这些平台验证。
 
-## 推送到 GitHub
+## GitHub 仓库与后续更新
 
-建议仓库名称：**`sensor-monitor-toolkit`**。外层文件夹可继续保留当前名称，项目内部路径不依赖它。
+项目仓库：[Z13156D2/PressureSignalLab](https://github.com/Z13156D2/PressureSignalLab)。外层文件夹可继续保留当前名称，项目内部路径不依赖它。
 
-在 GitHub 创建空仓库后，于本目录执行以下命令，并替换远程地址：
+后续修改完成后，在现有项目目录执行：
 
 ```powershell
-git init -b main
 git add .
 git status
-git commit -m "Organize sensor monitoring toolkit"
-git remote add origin https://github.com/YOUR_USERNAME/sensor-monitor-toolkit.git
-git push -u origin main
+git commit -m "Update PressureSignalLab"
+git push
 ```
 
-项目尚未选择许可证。若准备作为明确授权他人使用的开源项目发布，请按你的授权意愿添加 `LICENSE` 文件。
+本项目采用 [MIT 许可证](LICENSE)。
