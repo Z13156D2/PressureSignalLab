@@ -1,0 +1,193 @@
+{
+    "theme_name": "工业气压监测系统 - 深色主题",
+    "version": "2.0",
+    "author": "AI Assistant",
+    "description": "现代化深色主题配色方案",
+    
+    "colors": {
+        "primary_background": {
+            "color": "#1e1e2e",
+            "description": "主背景色 - 深灰蓝",
+            "usage": "窗口主背景"
+        },
+        "secondary_background": {
+            "color": "#2d2d44",
+            "description": "次级背景色 - 中灰蓝",
+            "usage": "卡片、面板、图表背景"
+        },
+        "tertiary_background": {
+            "color": "#3d3d54",
+            "description": "三级背景色 - 浅灰蓝",
+            "usage": "输入框、悬停状态"
+        },
+        "sidebar_background": {
+            "color": "#252535",
+            "description": "侧边栏背景",
+            "usage": "导航栏"
+        },
+        
+        "accent_green": {
+            "color": "#00ff88",
+            "description": "强调绿色",
+            "usage": "标题、成功状态、正常运行"
+        },
+        "accent_cyan": {
+            "color": "#00ddff",
+            "description": "强调青色",
+            "usage": "数据显示、气压曲线"
+        },
+        "accent_red": {
+            "color": "#ff6b6b",
+            "description": "强调红色",
+            "usage": "电流数据、警报、错误"
+        },
+        "accent_teal": {
+            "color": "#4ecdc4",
+            "description": "青绿色",
+            "usage": "气压卡片、保存按钮"
+        },
+        "accent_mint": {
+            "color": "#95e1d3",
+            "description": "薄荷绿",
+            "usage": "峰值显示、统计数据"
+        },
+        "accent_pink": {
+            "color": "#f38181",
+            "description": "柔和粉",
+            "usage": "采样计数、重置按钮"
+        },
+        "accent_yellow": {
+            "color": "#ffd93d",
+            "description": "警告黄",
+            "usage": "低压警报"
+        },
+        
+        "text_primary": {
+            "color": "#ffffff",
+            "description": "主文本色 - 白色",
+            "usage": "标题、按钮文字"
+        },
+        "text_secondary": {
+            "color": "#cccccc",
+            "description": "次级文本色 - 浅灰",
+            "usage": "说明文字"
+        },
+        "text_tertiary": {
+            "color": "#888888",
+            "description": "三级文本色 - 中灰",
+            "usage": "辅助信息、坐标轴"
+        },
+        
+        "border_color": {
+            "color": "#555555",
+            "description": "边框颜色",
+            "usage": "图表边框、分隔线"
+        },
+        "grid_color": {
+            "color": "#555555",
+            "description": "网格颜色",
+            "usage": "图表网格线"
+        }
+    },
+    
+    "color_data_cards": {
+        "current_card": "#ff6b6b",
+        "pressure_card": "#4ecdc4",
+        "peak_card": "#95e1d3",
+        "count_card": "#f38181"
+    },
+    
+    "fonts": {
+        "chinese": {
+            "family": "Microsoft YaHei UI",
+            "sizes": {
+                "title": 16,
+                "heading": 14,
+                "subheading": 12,
+                "body": 11,
+                "small": 10,
+                "tiny": 9
+            },
+            "weights": ["Regular", "Bold"]
+        },
+        "data": {
+            "family": "Consolas",
+            "sizes": {
+                "large": 18,
+                "medium": 14,
+                "small": 11,
+                "tiny": 10,
+                "mini": 9
+            },
+            "weights": ["Regular", "Bold"]
+        }
+    },
+    
+    "chart_colors": {
+        "pressure_line": "#00ddff",
+        "current_line": "#ff6b6b",
+        "histogram": "#4ecdc4",
+        "boxplot": "#95e1d3",
+        "scatter": "#ff6b6b",
+        "grid": "#555555",
+        "axis": "#888888"
+    },
+    
+    "button_states": {
+        "normal": {
+            "background": "#2d2d44",
+            "foreground": "#ffffff"
+        },
+        "hover": {
+            "background": "#3d3d54",
+            "foreground": "#00ff88"
+        },
+        "active": {
+            "background": "#4d4d64",
+            "foreground": "#00ff88"
+        }
+    },
+    
+    "status_colors": {
+        "running": "#00ff88",
+        "high_alert": "#ff6b6b",
+        "low_alert": "#ffd93d",
+        "stopped": "#888888"
+    },
+    
+    "gradient_suggestions": [
+        {
+            "name": "主按钮渐变",
+            "start": "#4ecdc4",
+            "end": "#45b7af",
+            "usage": "保存、确认按钮"
+        },
+        {
+            "name": "危险按钮渐变",
+            "start": "#ff6b6b",
+            "end": "#ff5252",
+            "usage": "删除、警告按钮"
+        },
+        {
+            "name": "次要按钮渐变",
+            "start": "#95e1d3",
+            "end": "#82cec0",
+            "usage": "取消、返回按钮"
+        }
+    ],
+    
+    "design_principles": [
+        "使用深色背景保护眼睛，适合长时间监控",
+        "高对比度确保数据清晰可读",
+        "色彩编码帮助快速识别不同类型的信息",
+        "柔和的强调色避免视觉疲劳",
+        "统一的圆角和阴影营造现代感",
+        "图标与颜色配合增强可用性"
+    ],
+    
+    "accessibility": {
+        "contrast_ratio": "AAA级别 (7:1以上)",
+        "colorblind_friendly": "使用图标辅助颜色识别",
+        "font_size": "最小9pt，确保可读性"
+    }
+}

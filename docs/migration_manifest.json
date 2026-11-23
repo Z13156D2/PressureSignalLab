@@ -1,0 +1,162 @@
+[
+  {
+    "original": "ui_1.py",
+    "current": "src/sensor_monitor/apps/pressure_demo.py",
+    "original_sha256": "465adeb17a42098532f88aa70225142d30f03a5437f71358d173ee4fd7bc9a07"
+  },
+  {
+    "original": "ui_4.py",
+    "current": "src/sensor_monitor/apps/pressure_serial.py",
+    "original_sha256": "4668555545803bdc7213df3a102471037e191d1f5b0f53f6c83cfd2cd509d188"
+  },
+  {
+    "original": "ui_7.py",
+    "current": "src/sensor_monitor/apps/environment_demo.py",
+    "original_sha256": "901ad697f6c2bf2d26e1b3bfa74d1dd21ac1b4bda3da36d9939de48767a9b73e"
+  },
+  {
+    "original": "sensor_gui.py",
+    "current": "src/sensor_monitor/apps/voltage_dashboard.py",
+    "original_sha256": "bcac49e821d79e80ef1a6c0c09e39342b748daba813579471f44f8dbba75fc7c"
+  },
+  {
+    "original": "ui_2.py",
+    "current": "src/sensor_monitor/legacy/pressure_serial_diagnostics.py",
+    "original_sha256": "53ea9ed6473a11214fe36e3f20e3469346ea44401b2d5f7ea63c61df36ecec19"
+  },
+  {
+    "original": "ui_3.py",
+    "current": "src/sensor_monitor/legacy/pressure_serial_prototype.py",
+    "original_sha256": "5fe5a9373b4320a4ed799ef4a04055d2e7c7c70dd748dfb2dbfe043813c17b01"
+  },
+  {
+    "original": "ui_5.py",
+    "current": "src/sensor_monitor/legacy/pressure_static_demo.py",
+    "original_sha256": "6ffb73e1264f7b324bfe5a342615cb35e80477357b7ee9aff7199dd756dc9cbf"
+  },
+  {
+    "original": "ui_6.py",
+    "current": "src/sensor_monitor/legacy/environment_demo_prototype.py",
+    "original_sha256": "6c8f37d13ba12dca0353c9e6fd1e77a8dffc012b738f8f9131be5821f225659d"
+  },
+  {
+    "original": "serial_1.py",
+    "current": "src/sensor_monitor/legacy/pressure_demo_basic.py",
+    "original_sha256": "dbcb3f1a7891427071ff320e09be3f12312db46fa7b5cc3b8af017d498465f06"
+  },
+  {
+    "original": "SENSOR_GUI_1.py",
+    "current": "src/sensor_monitor/legacy/distance_static_demo.py",
+    "original_sha256": "7ce5d04104b0b63fd6aa545c62d380b80897a2ea282ee6ca9faf1a29fa50e1d4"
+  },
+  {
+    "original": "传感器读取信息.py",
+    "current": "src/sensor_monitor/legacy/current_serial_monitor.py",
+    "original_sha256": "888f028a9af4e10190e818df18605a0ec3fd991f4e8c7d7741a216ee41d4618e"
+  },
+  {
+    "original": "u_fbl.py",
+    "current": "archive/placeholders/voltage_resolution.py",
+    "original_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "original": "buchang.py",
+    "current": "examples/compensation/zero_drift_piecewise.py",
+    "original_sha256": "30d568e55bb8b50bcee3b30f0e225906faea395d194a9e8445596f3f7cb7d629"
+  },
+  {
+    "original": "buchang_1.py",
+    "current": "examples/compensation/zero_drift_polynomial.py",
+    "original_sha256": "3fff5c1c168f82647baf56beeca38653f89ad03451c8f59535a25de458368cae"
+  },
+  {
+    "original": "buchang_2.py",
+    "current": "examples/compensation/zero_drift_scaled.py",
+    "original_sha256": "4d102e368348c15b03e121a6fb5a5365cd38350d3d56f2289ec5f3debe5ac8cd"
+  },
+  {
+    "original": "liucheng.py",
+    "current": "examples/compensation/compensation_flowchart.py",
+    "original_sha256": "195554b0138797d738a2af70271e50d7a2f7f4f7d23a3377bb574b6aae96bb8f"
+  },
+  {
+    "original": "print_data.py",
+    "current": "src/sensor_monitor/tools/packet_generator.py",
+    "original_sha256": "9b2e682dae534b21ecbb954b85782b1b1b90c7b1c6d994d341cc8b1855d1c883"
+  },
+  {
+    "original": "serial_test.py",
+    "current": "src/sensor_monitor/tools/serial_inspector.py",
+    "original_sha256": "54c1eaf4c65d6e9850fe29f8b5bfc1421f135c0e0c11fab0e6aedb69dd48ecaa"
+  },
+  {
+    "original": "install_dependencies.py",
+    "current": "scripts/install_dependencies.py",
+    "original_sha256": "0ddb58c47cc02b1b66d130343506576116542a3f80e84176e4434a013fead710"
+  },
+  {
+    "original": "启动程序.bat",
+    "current": "scripts/start.bat",
+    "original_sha256": "8c8d560e98213ceb74408fa431ac559c53b0ad73fbcb0c2d4292aead55ea4205"
+  },
+  {
+    "original": "README_UI_v2.md",
+    "current": "docs/archive/ui_v2_features.zh-CN.md",
+    "original_sha256": "90b87c2bdde80d61c87a4a078f56c7588b23474460b46c649883edc7f2f8c565"
+  },
+  {
+    "original": "使用指南.md",
+    "current": "docs/archive/user_guide.zh-CN.md",
+    "original_sha256": "6c4fffba028beb468bbb86ac73e06ef7335705cbb7339b5db26b0fc7aa451800"
+  },
+  {
+    "original": "图标说明.txt",
+    "current": "docs/archive/icon_reference.zh-CN.txt",
+    "original_sha256": "d6703d508d4141d2727011d1a54cb862655fe57473a476101a83cbe7dbe2fe15"
+  },
+  {
+    "original": "界面展示说明.txt",
+    "current": "docs/archive/interface_overview.zh-CN.txt",
+    "original_sha256": "6918749e2431a629e7bc21e2a7fd899b682093f793c40143f0a8fb26a6e9818d"
+  },
+  {
+    "original": "color_scheme.json",
+    "current": "config/color_scheme.reference.json",
+    "original_sha256": "74f5514b397f744ac5dde7561580eb91a0139094fdc4acac1addd221fc368ca7"
+  },
+  {
+    "original": "settings.json",
+    "current": "config/original_settings.reference.json",
+    "original_sha256": "415db75da2989a210a8362ede757bfdffb271d8a835f0c1f824403c058e466c7"
+  },
+  {
+    "original": "112.xlsx",
+    "current": "data/samples/voltage_baseline.xlsx",
+    "original_sha256": "a754dd3ba835cb248c496a3ce7dc88e3a66d8721bce66c42cc2ac20dda38589f"
+  },
+  {
+    "original": "2.xlsx",
+    "current": "data/samples/voltage_series_02.xlsx",
+    "original_sha256": "cf441258c105fbfaddfac4b9e6f94117d86e0a544dd35da9f938cb24b6673442"
+  },
+  {
+    "original": "3.xlsx",
+    "current": "data/samples/voltage_series_03.xlsx",
+    "original_sha256": "dac98e0106f8dabf774a9cab60dff969861149d3539b8ef2ac8e03aa7bbfdec5"
+  },
+  {
+    "original": "pressure_600_700_800hPa_0p4Pa_step_voltage_corrected.xlsx",
+    "current": "data/samples/pressure_voltage_corrected.xlsx",
+    "original_sha256": "619b750f0c3b3d3c8114f8fb667b23ef7efaf9a97ef7cd3ef7cf8588c682f454"
+  },
+  {
+    "original": "pressure_600_700_800hPa_0p4Pa_step_voltage_corrected_1.xlsx",
+    "current": "data/samples/pressure_voltage_corrected_variant.xlsx",
+    "original_sha256": "8c1ea3c5229f815cbc9deb900c4cd35e9f8acf832014ae327d742bc419842a1a"
+  },
+  {
+    "original": "sensor_data_001.xlsx",
+    "current": "data/samples/sensor_recording_001.xlsx",
+    "original_sha256": "7f6ea78af03ca3f3c90ce450190ab1030d90501e726cf6d879531ddf84c818f7"
+  }
+]

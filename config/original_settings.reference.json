@@ -1,0 +1,10 @@
+{
+    "sampling_rate": 1000,
+    "alert_threshold_high": 150000.0,
+    "alert_threshold_low": 5.0,
+    "data_retention": 1000,
+    "auto_save": false,
+    "theme": "light",
+    "enable_sound": true,
+    "chart_update_rate": 10
+}

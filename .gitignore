@@ -1,0 +1,73 @@
+# ==========================================
+# Python Cache
+# ==========================================
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# ==========================================
+# Virtual Environments
+# ==========================================
+.venv/
+venv/
+env/
+
+# ==========================================
+# IDE and OS
+# ==========================================
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
+*.swp
+
+# ==========================================
+# Environment Variables and Secrets
+# ==========================================
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.json
+
+# ==========================================
+# Logs and Temporary Files
+# ==========================================
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+*.bak
+
+# ==========================================
+# Generated Sensor Data
+# ==========================================
+data/raw/
+data/processed/
+data/recordings/
+data/exports/
+
+# ==========================================
+# Generated Models and Checkpoints
+# ==========================================
+checkpoints/
+outputs/
+runs/
+*.ckpt
+
+# ==========================================
+# Build and Packaging
+# ==========================================
+build/
+dist/
+*.egg-info/
+*.spec
